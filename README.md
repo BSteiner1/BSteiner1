@@ -6,3 +6,7 @@
 BSteiner1/BSteiner1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">
+  <img src= "https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v" width="600" height="300"/>
+</div>
