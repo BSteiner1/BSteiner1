@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img src= "https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v" width="600" height="300"/>
+  <img src= "https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="600" height="300"/>
 </div>
