@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BSteiner1 
-- 👀 I’m interested in [Machine Learning](https://github.com/BSteiner1/Bushfire-Spread-Prevention-Solution-Challenge-2022), [Algorithms](https://github.com/BSteiner1/Trading-Algorithm), and [Data Structures](https://github.com/BSteiner1/An-introduction-to-OOP)
+- 👀 I’m interested in [Machine Learning](https://github.com/BSteiner1/Bushfire-Spread-Prevention-Solution-Challenge-2022), [Algorithms](https://github.com/BSteiner1/RodSort), and [Data Structures](https://github.com/BSteiner1/An-introduction-to-OOP)
 - 🌱 I’m currently learning about Data Science
 
 <!---
