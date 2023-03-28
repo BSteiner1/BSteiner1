@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BSteiner1 
-- 👀 I’m interested in [Machine Learning](https://github.com/BSteiner1/Bushfire-Spread-Prevention-Solution-Challenge-2022), [Algorithms](https://github.com/BSteiner1/RodSort), and [Data Structures](https://github.com/BSteiner1/An-introduction-to-OOP)
-- 🌱 I’m currently learning about Data Science
+- 👀 I’m interested in AI, [Machine Learning](https://github.com/BSteiner1/ST310-Group-Project), and [Algorithms](https://github.com/BSteiner1/RodSort)
+- 🌱 I’m currently pursuing my interest in [research](https://github.com/BSteiner1/Dissertation)
 
 <!---
 BSteiner1/BSteiner1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
