@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="left">
-  <img src= "https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="600" height="300"/>
+  <img src= "https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="500" height="280"/>
 </div>
     
 ### :hammer_and_wrench: Languages and Tools :
