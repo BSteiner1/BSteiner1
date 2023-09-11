@@ -1,7 +1,16 @@
+## *About Me:*
 - 👋 Hi, I’m @BSteiner1 
 - 👀 I’m interested in [AI](https://github.com/BSteiner1/ST311-Group-Project), [Machine Learning](https://github.com/BSteiner1/ST310-Group-Project), and [Algorithms](https://github.com/BSteiner1/RodSort)
 - 🌱 I’m currently pursuing my interest in [research](https://github.com/BSteiner1/Dissertation)
 - ⏰ I spend my time right now working on [symbolic music generation](https://github.com/BSteiner1/Music-Gen)
+
+## *Papers:*
+* Master's Thesis: [Symbolic Music Generation](https://github.com/BSteiner1/Music-Gen) - **Work in Progress**
+* *An Application of Convolutional Neural Networks to Music Genre Classification :* [CNNs For Music Genre Classification.pdf](https://github.com/BSteiner1/BSteiner1/files/12577907/Music.Genre.Classification.Report.pdf)
+* *Be Greedy but not Too Greedy: Mistake Bounds for a New Perceptron Algorithm:* [Dissertation Final.pdf](https://github.com/BSteiner1/Dissertation/files/11062995/Benjamin.Steiner.Dissertation.Final.pdf)
+* *Beyond the Truth: Data Augmentation via Latent Features in Recommender Systems :* [Latent.pdf](https://github.com/BSteiner1/BSteiner1/files/12577875/Latent.pdf)
+
+
 
 <!---
 BSteiner1/BSteiner1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
