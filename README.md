@@ -1,8 +1,7 @@
 ## *About Me:*
-- 👋 Hi, I’m @BSteiner1 
-- 👀 I’m interested in [AI](https://github.com/BSteiner1/ST311-Group-Project), [Machine Learning](https://github.com/BSteiner1/ST310-Group-Project), and [Algorithms](https://github.com/BSteiner1/RodSort)
-- 🌱 I’m currently pursuing my interest in [research](https://github.com/BSteiner1/Dissertation)
-- ⏰ I spend my time right now working on [symbolic music generation](https://github.com/BSteiner1/Music-Gen)
+- 👋 Hi I’m Ben, an MSc Applicable Maths student at the London School of Economics
+- 🎵 I’m interested in [AI in Music](https://github.com/BSteiner1/ST311-Group-Project), in particular improving accessibility and personalisation for non-musicians
+- 👀 I'm currently working on [symbolic music generation](https://github.com/BSteiner1/Music-Gen)
 
 ## *Papers:*
 * Master's Thesis: [Symbolic Music Generation](https://github.com/BSteiner1/Music-Gen) - **Work in Progress**
