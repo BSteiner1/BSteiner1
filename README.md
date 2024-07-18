@@ -1,24 +1,6 @@
 ## *About Me:*
-- 👋 Hi I’m Ben, an MSc Applicable Maths student at the London School of Economics
-- 🎵 I’m interested in [AI in Music](https://github.com/BSteiner1/ST311-Group-Project), in particular improving accessibility and personalisation for non-musicians
-- 👀 I'm currently working on [symbolic music generation](https://github.com/BSteiner1/Music-Gen)
-
-## *Papers:*
-* Master's Thesis: [Symbolic Music Generation](https://github.com/BSteiner1/Music-Gen) - **Work in Progress**
-* *An Application of Convolutional Neural Networks to Music Genre Classification :* [CNNs For Music Genre Classification.pdf](https://github.com/BSteiner1/BSteiner1/files/12577907/Music.Genre.Classification.Report.pdf)
-* *Be Greedy but not Too Greedy: Mistake Bounds for a New Perceptron Algorithm:* [Dissertation Final.pdf](https://github.com/BSteiner1/Dissertation/files/11062995/Benjamin.Steiner.Dissertation.Final.pdf)
-* *Beyond the Truth: Data Augmentation via Latent Features in Recommender Systems :* [Latent.pdf](https://github.com/BSteiner1/BSteiner1/files/12577875/Latent.pdf)
-
-
-
-<!---
-BSteiner1/BSteiner1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div align="left">
-  <img src= "https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="500" height="280"/>
-</div>
+- Hi I’m Ben, a Quantitative Researcher at Crédit Agricole CIB
+- I'm passionate about AI, Data Science, and Derivatives
     
 ### :hammer_and_wrench: Languages and Tools :
 <div>
