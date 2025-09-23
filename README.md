@@ -1,5 +1,5 @@
 ## *About Me:*
-- Hi I’m Ben, a Quantitative Researcher at Crédit Agricole CIB
+- Hi I’m Ben, a Quantitative Analyst at JPMorganChase
 - I'm passionate about AI, Data Science, and Derivatives
     
 ### :hammer_and_wrench: Languages and Tools :
